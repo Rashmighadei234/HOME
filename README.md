@@ -1,2 +1,3 @@
 # HOME
-TThis is my First Git Repositary Author - Rashmi (ABIT)
+This is my First Git Repositary
+Author - Rashmi (ABIT)
